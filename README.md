@@ -1,1 +1,1 @@
-# GUI-Course
+# GUI
